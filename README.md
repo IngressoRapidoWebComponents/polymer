@@ -6,7 +6,11 @@ Aqui você vai encontrar um guia para inicar o seu estudo e colocar em pratica t
 
 # Polycasts
 
-#####Element Definition
+##### Preparando ambiente de trabalho
+
+##### Criando seu primeiro componente
+
+##### Properties, observer, notify, 
 https://www.youtube.com/watch?v=7jolqbtIdiY&index=32&list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN
 
 #####Data Binding
