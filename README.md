@@ -1,11 +1,8 @@
-# Polymer - Getting Started
-Would you like to know Polymer, but you don't know where to you start?
+# Polymer - Guia do iniciante
 
-There are great contents on the internet about it, but does not always make sense if you are a beginner, since the contents are emerging and there isn't a sequential order that makes it easier to understand them.
+Quer aprender Polymer, mas você não sabe por onde começar?
 
-With this in mind, we created this repository where we organized some contents that helped us a lot in learning, we are counting on you to make this document better!
-
-Please request us the invitation.
+Aqui você vai encontrar um guia para inicar o seu estudo e colocar em pratica todo poder dos Web Components.
 
 # Polycasts
 
