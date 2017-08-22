@@ -1,6 +1,7 @@
 # Polymer - Guia do iniciante
 
 Quer aprender Polymer, mas você não sabe por onde começar?
+https://github.com/lcassiano1612/polymer/tree/master/1-preparando%20ambiente%20de%20trabalho
 
 Aqui você vai encontrar um guia para inicar o seu estudo e colocar em pratica todo poder dos Web Components.
 
