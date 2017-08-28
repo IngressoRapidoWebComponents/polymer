@@ -6,7 +6,7 @@ Aqui você vai encontrar um guia para inicar o seu estudo e colocar em pratica t
 
 # Polycasts
 
-##### [Preparando ambiente de trabalho](https://github.com/lcassiano1612/polymer/tree/master/1-preparando%20ambiente%20de%20trabalho)
+##### 1 - [Preparando ambiente de trabalho](https://github.com/lcassiano1612/polymer/tree/master/1-preparando%20ambiente%20de%20trabalho)
 
 
 ##### Criando seu primeiro componente
