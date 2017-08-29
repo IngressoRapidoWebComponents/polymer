@@ -16,11 +16,9 @@ Aqui você vai encontrar um guia para inicar o seu estudo e colocar em pratica t
 
 ##### 4 - [Data Bindind com objetos](https://www.youtube.com/watch?v=0GxteaIaj2Q&list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN&index=16)
 
-##### 5 - [Arrays Data Binding](https://www.youtube.com/watch?v=HBUb8frm2Tw&index=11&list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
+##### 5 - [Data Binding com arrays](https://www.youtube.com/watch?v=HBUb8frm2Tw&index=11&list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
 
-
-##### Observers
-https://www.youtube.com/watch?v=m1hFhDYDY6o
+##### 6 - [Observers and Change Records](https://www.youtube.com/watch?v=m1hFhDYDY6o)
 
 ##### Behaviors
 https://www.youtube.com/watch?v=YrlmieL3Z0k&index=26&list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN
