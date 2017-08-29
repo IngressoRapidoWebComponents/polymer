@@ -20,8 +20,7 @@ Aqui você vai encontrar um guia para inicar o seu estudo e colocar em pratica t
 
 ##### 6 - [Observers and Change Records](https://www.youtube.com/watch?v=m1hFhDYDY6o)
 
-##### Behaviors
-https://www.youtube.com/watch?v=YrlmieL3Z0k&index=26&list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN
+##### 7 - [Behaviors](https://www.youtube.com/watch?v=YrlmieL3Z0k&index=26&list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
 
 ##### Create reusable elements
 https://www.youtube.com/watch?v=p7Q1mQtFGM8&index=34&list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN
