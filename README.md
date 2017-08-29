@@ -11,9 +11,9 @@ Aqui você vai encontrar um guia para inicar o seu estudo e colocar em pratica t
 ##### 1 - [Preparando ambiente de trabalho](https://github.com/lcassiano1612/polymer/tree/master/1-preparando%20ambiente%20de%20trabalho)
 
 ##### 2 - [Properties, observer, notify](https://www.youtube.com/watch?v=7jolqbtIdiY&index=32&list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN) 
+	
+##### 3 - [Data Binding - Conceito](https://www.youtube.com/watch?v=1sx6YNn58OQ&index=18&list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
 
-##### Data Binding
-https://www.youtube.com/watch?v=1sx6YNn58OQ&index=18&list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN
 https://www.youtube.com/watch?v=0GxteaIaj2Q&list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN&index=16
 
 ##### Arrays Data Binding
