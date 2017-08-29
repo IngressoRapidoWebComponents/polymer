@@ -47,39 +47,26 @@ https://www.youtube.com/watch?v=wMhq1o0DULM&index=22&list=PLNYkxOF6rcIDdS7HWIC_B
 
 # Elementos prontos
 
-##### Polymer Elements
-https://elements.polymer-project.org/browse
+##### [Polymer Elements](https://elements.polymer-project.org/browse)
 
-##### Custom Elements
-https://customelements.io/
-
-##### Vaadin Elements
-https://vaadin.com/elements
+##### [Vaadin Elements](https://vaadin.com/elements)
 
 # Referencias
 
-##### Polycasts
-https://www.youtube.com/playlist?list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo
+##### [Polycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo)
 
-##### Polymer App Toolbox
-https://www.polymer-project.org/1.0/toolbox/
+##### [Polymer App Toolbox](https://www.polymer-project.org/1.0/toolbox/)
 
-##### Polymer Start Kit
-https://www.youtube.com/watch?v=xz-yixRxZN8&index=29&list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo
+##### [Polymer Start Kit](https://www.youtube.com/watch?v=xz-yixRxZN8&index=29&list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo)
 
-##### Polymer Project - Start
-https://www.polymer-project.org/1.0/start/
+##### [Polymer Project - Start](https://www.polymer-project.org/1.0/start/)
 
-##### Code Labs
-https://codelabs.developers.google.com/polymer-summit
+##### [Code Labs](https://codelabs.developers.google.com/polymer-summit)
 
 # Eventos
 
-##### Polymer Summit 2015
-https://www.youtube.com/playlist?list=PLNYkxOF6rcICdISJclfQhj2S8QZGjXV8J
+##### [Polymer Summit 2015](https://www.youtube.com/playlist?list=PLNYkxOF6rcICdISJclfQhj2S8QZGjXV8J)
 
-##### Web and Chrome at Google I/O 2016
-https://www.youtube.com/playlist?list=PLNYkxOF6rcIDz1TzmmMRBC-kd8zPRTQIP
+##### [Web and Chrome at Google I/O 2016](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDz1TzmmMRBC-kd8zPRTQIP)
 
-##### Google I/O 2015
-https://www.youtube.com/watch?v=fD2As5RmM8Q
+##### [Google I/O 2015](https://www.youtube.com/watch?v=fD2As5RmM8Q)
