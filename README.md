@@ -63,6 +63,10 @@ https://www.youtube.com/watch?v=wMhq1o0DULM&index=22&list=PLNYkxOF6rcIDdS7HWIC_B
 
 ##### [Code Labs](https://codelabs.developers.google.com/polymer-summit)
 
+##### [Tabless - Polymer 1.0 | Pronto para produção](https://tableless.com.br/polymer-1-0-pronto-para-producao/)
+
+##### [Melhores praticas com web components](https://tableless.com.br/melhores-praticas-web-components/)
+
 # Eventos
 
 ##### [Polymer Summit 2015](https://www.youtube.com/playlist?list=PLNYkxOF6rcICdISJclfQhj2S8QZGjXV8J)
