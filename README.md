@@ -22,8 +22,7 @@ Aqui você vai encontrar um guia para inicar o seu estudo e colocar em pratica t
 
 ##### 7 - [Behaviors](https://www.youtube.com/watch?v=YrlmieL3Z0k&index=26&list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
 
-##### Create reusable elements
-https://www.youtube.com/watch?v=p7Q1mQtFGM8&index=34&list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN
+##### 8 - [Create reusable elements](https://www.youtube.com/watch?v=p7Q1mQtFGM8&index=34&list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
 
 ##### Iron Ajax
 https://www.youtube.com/watch?v=k1eR_3KqJms&list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo&index=21
